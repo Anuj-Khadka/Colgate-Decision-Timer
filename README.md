@@ -11,5 +11,16 @@
 - [Features](#features)
 - [Other Details](#other-details)
 
-## Technologies Used
+
+## General Info
+
+## Technologies
 HTML, CSS, JavaScript
+
+## Glimpse
+
+## How to Run
+
+## Features
+
+## Other Details
